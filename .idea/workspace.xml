@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997c2fa8-97af-4071-acf5-ef8e43c57d4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/LogProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Accounts/UserAccounts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Accounts/UserAccounts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Payments/Payments.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Payments/Payments.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Payments/Transactions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../React/bankify/bankify/src/components/Payments/Transactions.js" afterDir="false" />
@@ -49,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java/Logger/src/main/java/Main.java"
   }
